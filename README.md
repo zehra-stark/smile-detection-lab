@@ -1,6 +1,6 @@
 # 😊 Smile Detection Lab using Amazon Rekognition & SageMaker
 
-> Real-time smile and emotion detection from webcam images — built fully on AWS Free Tier using SageMaker, S3, and Rekognition.
+Real-time smile and emotion detection from webcam images — built fully on AWS Free Tier using SageMaker, S3, and Rekognition.
 
 ---
 
