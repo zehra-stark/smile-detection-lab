@@ -40,13 +40,16 @@ It detects whether a face in the image is smiling or not and also reveals emotio
 
 ## 📸 Output Snapshots
 
-- **Captured Webcam Image**  
+- **Captured Webcam Image**
+  
   ![](screenshots/1.png)
 
-- **Console Output – Smile & Emotions**  
+- **Console Output – Smile & Emotions**
+  
   ![](screenshots/2.png)
 
-- **Final Image with Face Detection**  
+- **Final Image with Face Detection**
+  
   ![](screenshots/3.png)
 
 ---
