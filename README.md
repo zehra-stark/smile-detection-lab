@@ -2,6 +2,8 @@
 
 This project is about building a real-time smile and emotion detection system using Python, OpenCV, Amazon S3, Amazon Rekognition, and SageMaker — where webcam images are captured, uploaded to the cloud.
 
+Now, this project is beginner-level, I'm going to create it as a web applciation using streamlit... upgrading....
+
 ---
 
 ## 🔍 What’s This All About?
